@@ -1,3 +1,4 @@
+#made a date 7/20/14
 #print the mean of the numbers given in a file
 
 import sys
